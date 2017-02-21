@@ -1,2 +1,0 @@
-# geekr-api
-ExpressJS API
